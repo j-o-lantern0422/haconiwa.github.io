@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://haconiwa.green/</loc>
+    <loc>https://www.haconiwa.green/</loc>
   </url>
   
   <url>
-    <loc>https://haconiwa.green/categories/</loc>
+    <loc>https://www.haconiwa.green/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://haconiwa.green/tags/</loc>
+    <loc>https://www.haconiwa.green/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://haconiwa.green/</loc>
+    <loc>https://www.haconiwa.green/</loc>
     <priority>0</priority>
   </url>
   
